@@ -28,6 +28,6 @@ A comprehensive full-stack e-commerce project designed to provide a seamless sho
 
 ### 📫 Let's Connect
 *   **LinkedIn**: [Insert your LinkedIn profile link here]
-*   **Email**: [Insert your email address here]
+*   **Email**: [mranjbardev@gmail.com]
 
 *Always learning, always building. Excited to contribute to innovative projects!*
